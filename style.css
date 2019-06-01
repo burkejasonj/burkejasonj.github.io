@@ -5,3 +5,27 @@ body {
     width: 80%;
     margin: auto;
 }
+a {
+    text-decoration: none;
+    color:#222222;
+}
+a:hover {
+    color:#444444;
+}
+a:active {
+
+    color:#ffffff;
+}
+a:visited {
+
+    color:#666666;
+}
+.categories {
+    border:1px #cccccc solid;
+    padding: 20px;
+    border-radius:20px;
+}
+.categories h2 {
+    text-align: center;
+    list-style: none;
+}
