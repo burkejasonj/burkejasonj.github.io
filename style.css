@@ -27,5 +27,7 @@ a:visited {
 }
 .categories h2 {
     text-align: center;
+}
+.categories ul {
     list-style: none;
 }
