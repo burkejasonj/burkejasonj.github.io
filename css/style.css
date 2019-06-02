@@ -31,3 +31,14 @@ a:visited {
 .categories ul {
     list-style: none;
 }
+.link-item {
+    border:1px #cccccc solid;
+    padding: 20px;
+    border-radius:20px;
+}
+.link-item h2 {
+    text-align: left;
+}
+.link-item h3 {
+    text-align: left;
+}
