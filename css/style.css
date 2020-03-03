@@ -53,5 +53,11 @@ a:visited {
     border-radius: 10px;
 }
 .type h3 {
-    text-align: center
+    text-align: center;
+}
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
 }
